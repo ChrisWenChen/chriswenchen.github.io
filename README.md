@@ -20,7 +20,7 @@ There is nothing yet.
 [Optics - 2021](/Optics - 2021.md) 
 
 ## Links
-[Zhihu(知乎)](https://www.zhihu.com/people/wen-sao-28)
+[Zhihu](https://www.zhihu.com/people/wen-sao-28)
 
 [Github](https://github.com/ChrisWenChen)
 
