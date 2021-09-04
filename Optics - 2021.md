@@ -1,4 +1,4 @@
 # Optics - 2021
-## Inroduction
+## Introduction
 
 ## Slides
