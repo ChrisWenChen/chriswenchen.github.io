@@ -19,12 +19,12 @@ There is nothing yet.
 ## Lecture and Talk note
 [Optics - 2021](/Optics - 2021.md) 
 
-# Links
+## Links
 [Zhihu(知乎)](https://www.zhihu.com/people/wen-sao-28)
 
 [Github](https://github.com/ChrisWenChen)
 
-# Contact me
+## Contact me
 Email:
   - wenchenphys@gmail.com
   - wenchen@zjnu.edu.cn
