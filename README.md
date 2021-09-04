@@ -1,5 +1,6 @@
-
-# About me
+# Welcome to Wen Chen's Homepage
+  
+## About me
 <img src="/image/chen.JPG" width="500">
 Wen Chen, a undergraduate student from Cangnan County, Zhejiang Province.
 - Experience
@@ -10,13 +11,18 @@ Wen Chen, a undergraduate student from Cangnan County, Zhejiang Province.
   - Strong Correlated System
   - Many-body Localization
   - Random Matrix Theory
-# Publication
-There is nothing yet.
-# Lecture and Talk note
-There is nothing yet.
+  
+## Publication
+There is nothing yet.  
+
+## Lecture and Talk note
+There is nothing yet.  
+
 # Links
 [Zhihu(知乎)](https://www.zhihu.com/people/wen-sao-28)
+
 [Github](https://github.com/ChrisWenChen)
+
 # Contact me
 Email:
   - wenchenphys@gmail.com
