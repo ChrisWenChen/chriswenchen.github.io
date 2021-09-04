@@ -1,5 +1,5 @@
 # Welcome to Wen Chen's Homepage
-  
+如果你想使用中文阅读，请点击[这里](/README_CN.md)
 ## About me
 <img src="/image/chen.JPG" align="middle" width="500">  
 
