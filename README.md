@@ -1,3 +1,3 @@
 ## Welcome to Wen Chen's Homepage
 
-![Image of Chen](https://github.com/ChrisWenChen/chriswenchen.github.io/blob/main/image/chen.JPG)
+![Image of Chen](https://github.com/ChrisWenChen/chriswenchen.github.io/blob/main/image/chen.JPG){:height="20%" width="20%"}
