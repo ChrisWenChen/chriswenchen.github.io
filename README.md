@@ -1,7 +1,7 @@
 # Welcome to Wen Chen's Homepage
   
 ## About me
-<img src="/image/chen.JPG" width="500">  
+<img src="/image/chen.JPG" align="middle" width="500">  
 
 Wen Chen, a undergraduate student from Cangnan County, Zhejiang Province.
 - Experience
