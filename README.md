@@ -3,7 +3,7 @@
 ## About me
 <img src="/image/chen.JPG" align="middle" width="500">  
 
-Wen Chen, a undergraduate student from Cangnan County, Zhejiang Province.
+Wen Chen, an undergraduate student from Cangnan County, Zhejiang Province.
 - Experience
   - 2018.9 -- 2022.6, Department of Physics, Zhejiang Normal University, Zhejiang Province, China. B. S. in physics. (Supervisor: Xianlong Gao)
   - 2018.9 -- 2019.6, Kuangyaming Department, Nanjing University, Jiangsu Province, China. Joint-Supervision student.
