@@ -1,7 +1,8 @@
 # Welcome to Wen Chen's Homepage
   
 ## About me
-<img src="/image/chen.JPG" width="500">
+<img src="/image/chen.JPG" width="500">  
+
 Wen Chen, a undergraduate student from Cangnan County, Zhejiang Province.
 - Experience
   - 2018.9 -- 2022.6, Department of Physics, Zhejiang Normal University, Zhejiang Province, China. B. S. in physics. (Supervisor: Xianlong Gao)
@@ -16,7 +17,7 @@ Wen Chen, a undergraduate student from Cangnan County, Zhejiang Province.
 There is nothing yet.  
 
 ## Lecture and Talk note
-There is nothing yet.  
+[Optics - 2021](/Optics - 2021.md) 
 
 # Links
 [Zhihu(知乎)](https://www.zhihu.com/people/wen-sao-28)
