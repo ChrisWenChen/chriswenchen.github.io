@@ -24,6 +24,8 @@ There is nothing yet.
 
 [Github](https://github.com/ChrisWenChen)
 
+[考研专题](/kaoyan/exam.md)
+
 ## Contact me
 Email:
   - wenchenphys@gmail.com
