@@ -18,7 +18,7 @@ Click [here](/README.md) to read in Enghlish.
 
 ## 授课和报告笔记
 [光学-2021](/Optics - 2021.md) 
-
+[考研专题](/kaoyan/exam.md)
 ## 链接
 [知乎](https://www.zhihu.com/people/wen-sao-28)
 
