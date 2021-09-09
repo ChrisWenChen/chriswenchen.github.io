@@ -4,4 +4,4 @@
 [量子力学-2021](/ECNU-2021-QM.pdf)
 
 
-[Back to homepage](README.md)
+[Back to homepage](chriswenchen.github.io)
