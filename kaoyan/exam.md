@@ -5,7 +5,12 @@
 
 
 ## 华东师范大学考研真题及答案
-[量子力学-2021](/ECNU-2021-QM.pdf)
+[量子力学-2021（含答案）](/ECNU-2021-QM.pdf)
+
+## 浙江师范大学考研真题及答案
+[普通物理-2013-1](/ZJNU-2013-FP-1.png)[普通物理-2013-2](/ZJNU-2013-FP-1.png)
 
 
-[Back to homepage](https://chriswenchen.github.io/)
+
+[返回主页](https://chriswenchen.github.io/)
+
