@@ -10,7 +10,10 @@
 ## 浙江师范大学考研真题及答案
 [普通物理-2013-1](/ZJNU-2013-FP-1.png)，[普通物理-2013-2](/ZJNU-2013-FP-2.png)
 
+## Vocabulary club
+这是一个关于词汇的笔记专区，如果有好的意见和笔记欢迎分享。
 
+[Vocabulary Club September 16th 2021](/Vocavbulary-9-16.pdf)
 
 [返回主页](https://chriswenchen.github.io/)
 
