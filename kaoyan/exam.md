@@ -13,7 +13,7 @@
 ## Vocabulary club
 这是一个关于词汇的笔记专区，如果有好的意见和笔记欢迎分享。
 
-[Vocabulary Club September 16th 2021](/Vocavbulary-9-16.pdf)
+[Vocabulary Club September 16th 2021](/Vocabulary-9-16.pdf)
 
 [返回主页](https://chriswenchen.github.io/)
 
