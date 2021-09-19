@@ -17,5 +17,7 @@
 
 [Vocabulary Club September 16th 2021](/vocabulary-9-16.pdf)
 
+[Vocabulary Club September 19th 2021](/vocabulary-9-19.pdf)
+
 [返回主页](https://chriswenchen.github.io/)
 
