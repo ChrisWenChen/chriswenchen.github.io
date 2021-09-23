@@ -12,6 +12,7 @@ Wen Chen, an undergraduate student from Cangnan County, Zhejiang Province.
   - Strong Correlated System
   - Many-body Localization
   - Random Matrix Theory
+  - Computational Physics
   
 ## Publication
 There is nothing yet.  
