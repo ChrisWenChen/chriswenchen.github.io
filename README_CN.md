@@ -12,14 +12,14 @@ Click [here](/README.md) to read in Enghlish.
   - 强关联系统(Strong Correlated System)
   - 多体局域化(Many-body localization)
   - 随机矩阵理论(Random Matrix Theory)
+  - 计算物理(Computational Physics)
   
 ## 发表论文
 暂无。  
 
 ## 授课和报告笔记
-[光学-2021](/Optics - 2021.md) 
-
 [考研专题](/kaoyan/exam.md)
+
 ## 链接
 [知乎](https://www.zhihu.com/people/wen-sao-28)
 
