@@ -21,5 +21,8 @@
 
 [Vocabulary Club September 19th 2021](/vocabulary-9-19.pdf)
 
+## 政治错题本
+[十月一号马原测试](/politic-10-1.pdf)
+
 [返回主页](https://chriswenchen.github.io/)
 
