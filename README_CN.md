@@ -27,6 +27,6 @@ Click [here](/README.md) to read in Enghlish.
 
 ## 联系方式
 电子邮件:
-  - wenchenphys@gmail.com
+  - wenchenphy@gmail.com
   - wenchen@zjnu.edu.cn
   - chriscw@126.com
