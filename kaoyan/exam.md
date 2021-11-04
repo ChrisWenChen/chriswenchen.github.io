@@ -21,6 +21,8 @@
 
 [Vocabulary Club September 19th 2021](/vocabulary-9-19.pdf)
 
+[Vocabulary Club September 19th 2021](/vocabulary-9-23.pdf)
+
 ## 政治错题本
 [十月一号马原测试](/politic-10-1.pdf)
 
