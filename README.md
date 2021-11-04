@@ -29,6 +29,6 @@ There is nothing yet.
 
 ## Contact me
 Email:
-  - wenchenphys@gmail.com
+  - wenchenphy@gmail.com
   - wenchen@zjnu.edu.cn
   - chriscw@126.com
