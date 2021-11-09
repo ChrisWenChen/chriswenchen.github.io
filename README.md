@@ -20,6 +20,8 @@ There is nothing yet.
 ## Lecture and Talk note
 [考研专题](/kaoyan/exam.md)
 
+[A Concise introduction to quantum mechanics](/CQM/course.md)
+
 ## Links
 [Zhihu](https://www.zhihu.com/people/wen-sao-28)
 
