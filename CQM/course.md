@@ -10,3 +10,10 @@
 # 参考资料
 [吴飙. 简明量子力学(北京大学出版社 2019).](/WuBiao-2019.pdf)
 
+
+
+
+[返回主页](https://chriswenchen.github.io/)
+
+
+
