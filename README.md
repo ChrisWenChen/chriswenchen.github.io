@@ -20,7 +20,7 @@ There is nothing yet.
 ## Lecture and Talk note
 [考研专题](/kaoyan/exam.md)
 
-[A Concise introduction to quantum mechanics(2022年2月)](/CQM/course.md)
+[A Concise introduction to quantum mechanics(2022.2)](/CQM/course.md)
 
 ## Links
 [Zhihu](https://www.zhihu.com/people/wen-sao-28)
