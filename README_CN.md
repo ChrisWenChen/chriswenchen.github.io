@@ -20,6 +20,8 @@ Click [here](/README.md) to read in Enghlish.
 ## 授课和报告笔记
 [考研专题](/kaoyan/exam.md)
 
+[简明量子力学（2022年2月）](/CQM/course.md)
+
 ## 链接
 [知乎](https://www.zhihu.com/people/wen-sao-28)
 
