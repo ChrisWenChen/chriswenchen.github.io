@@ -24,9 +24,9 @@
  我相信这一讲才是大家真正想听的吧……
  
 # 课程讲义
-[0. 前言](/CQM-Introduction.pdf)
+[0. 前言](/CQM-preface.pdf)
 
-[1. 量子力学简介](CQM-preface.pdf)
+[1. 量子力学简介](CQM-Introduction.pdf)
 
 # 参考资料
 [吴飙. 简明量子力学(北京大学出版社 2019).](/WuBiao-2019.pdf)
