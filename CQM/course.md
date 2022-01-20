@@ -28,6 +28,10 @@
 
 [1. 量子力学简介](CQM-Introduction.pdf)
 
+[2. 量子力学简史](/CQM-History.pdf)
+
+[3. 经典力学和旧量子论](CQM-Mechanics.pdf)
+
 # 参考资料
 [吴飙. 简明量子力学(北京大学出版社 2019).](/WuBiao-2019.pdf)
 
