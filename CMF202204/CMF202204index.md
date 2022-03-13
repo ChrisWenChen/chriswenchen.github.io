@@ -5,8 +5,24 @@
 
 ### 最主要的参考书
 
-Hui Zhai, Ultracold Atomic Physics (Cambridge Press 2020). [pdf](/Zhai.pdf)
+Hui Zhai, Ultracold Atomic Physics (Cambridge University Press 2020). [pdf](/Zhai.pdf)
 
-A. Atland, and B. Simons, Condensed Field Theory (Cambridge Press 2010). [pdf](/Atland.pdf)
+A. Atland, and B. Simons, Condensed Field Theory (Cambridge University Press 2010). [pdf](/Atland.pdf)
+
+### 冷原子参考书
+
+ M. Ueda, Fundamentals and New Frontiers of Bose-Einstein COndensation (北京大学出版社 2014).
+ 
+ C. J. Pethick, and H. Smith, Bose-Einstein Condensation In Dilute Gases (Cambridge University Press 2008). [pdf](/Pethick.pdf)
+ 
+ ### 凝聚态参考书
+ 
+ E. Fradkin, Field Theories of Condensed Matter Physics (Cambridge University Press 2013). [pdf](/Fradin.pdf)
+ 
+ 文小刚，量子多体理论——从声子的起源到光子和电子的起源 (高等教育出版社 2004). [pdf](/Wen.pdf)
+ 
+ R. Shankar, Quantum Field Theory and Condensed Matter (Cambridge University Press 2017). [pdf](/Shankar.pdf)
+ 
+ 
 
 [返回主页](https://chriswenchen.github.io/)
