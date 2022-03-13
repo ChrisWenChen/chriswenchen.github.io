@@ -35,7 +35,7 @@ M. Kardar, Statistical Physics of Fields (Cambridge University Press 2007). [pdf
 
 ### 数学参考书
 
-A. Altland, and J. Von Delft, Mathematics for Physicists: Introductory Concepts and Methods ()
+A. Altland, and J. Von Delft, Mathematics for Physicists: Introductory Concepts and Methods (Cambridge University Press 2019) [link](https://libgen.rocks/ads.php?md5=7e8ead40b2e47190ac66bda2f417374b)
 
 M. Nakahara, Gemoetry, Topology, And Physics (Institute of PHysics Publishing 2003). [pdf](/Nakahara.pdf)
  
@@ -45,5 +45,10 @@ M. E. Peskin, D. V. Schroeder, An Introduction to Quantum Field Theory (CRC Pres
 
 A. Zee, Quantum Field Theory in a Nutshell (Princeton University Press 2010). [pdf](/Zee.pdf)
 
+### 计算物理参考资料
+
+龚明, 课程主页. [link](http://home.ustc.edu.cn/~gengb/)
+
+庞龙刚，华中师范大学计算物理课程（2021年春季）. [link](http://lgpang.gitee.io/mlcphysics/)
 
 [返回主页](https://chriswenchen.github.io/)
