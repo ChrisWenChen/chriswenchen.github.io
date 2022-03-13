@@ -7,13 +7,15 @@
 
 Hui Zhai, Ultracold Atomic Physics (Cambridge University Press 2020). [pdf](/Zhai.pdf)
 
-A. Atland, and B. Simons, Condensed Field Theory (Cambridge University Press 2010). [pdf](/Atland.pdf)
+A. Altland, and B. Simons, Condensed Field Theory (Cambridge University Press 2010). [pdf](/Atland.pdf)
 
 ### 冷原子参考书
 
  M. Ueda, Fundamentals and New Frontiers of Bose-Einstein COndensation (北京大学出版社 2014).
  
  C. J. Pethick, and H. Smith, Bose-Einstein Condensation In Dilute Gases (Cambridge University Press 2008). [pdf](/Pethick.pdf)
+ 
+ L. Pitaevskii, and S. Stringari, Bose-Einstein Condensation and superfluidity (Oxford University Press 2016). [pdf](/Pitaevskii.pdf)
  
  ### 凝聚态参考书
  
@@ -23,6 +25,19 @@ A. Atland, and B. Simons, Condensed Field Theory (Cambridge University Press 201
  
  R. Shankar, Quantum Field Theory and Condensed Matter (Cambridge University Press 2017). [pdf](/Shankar.pdf)
  
+### 统计参考书
+
+J. P. Sethna, Entropy, Order Parameters, and Complexity (Oxford University Press 2020). [pdf](/Sethna.pdf)
+
+M. Kardar, Statistical Physics of Particles (Cambridge University Press 2007). [pdf](/Kardar1.pdf)
+
+M. Kardar, Statistical Physics of Fields (Cambridge University Press 2007). [pdf](/Kardar2.pdf)
+
+### 数学参考书
+
+A. Altland, and J. Von Delft, Mathematics for Physicists: Introductory Concepts and Methods ()
+
+M. Nakahara, Gemoetry, Topology, And Physics (Institute of PHysics Publishing 2003). [pdf](/Nakahara.pdf)
  
 ### 量子场论（偏高能）参考书
 
