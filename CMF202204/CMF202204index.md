@@ -24,5 +24,11 @@ A. Atland, and B. Simons, Condensed Field Theory (Cambridge University Press 201
  R. Shankar, Quantum Field Theory and Condensed Matter (Cambridge University Press 2017). [pdf](/Shankar.pdf)
  
  
+### 量子场论（偏高能）参考书
+
+M. E. Peskin, D. V. Schroeder, An Introduction to Quantum Field Theory (CRC Press 1995). [link](https://libgen.rocks/ads.php?md5=6a2fbf9a8d9b99f976a4887416380cc8)
+
+A. Zee, Quantum Field Theory in a Nutshell (Princeton University Press 2010). [pdf](/Zee.pdf)
+
 
 [返回主页](https://chriswenchen.github.io/)
