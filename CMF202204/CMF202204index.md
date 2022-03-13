@@ -5,8 +5,8 @@
 
 ### 最主要的参考书
 
-Hui Zhai, Ultracold Atomic Physics (Cambridge Press 2020). [pdf](/Hui Zhai-2020-UltracoldAtomicPhysics.pdf)
+Hui Zhai, Ultracold Atomic Physics (Cambridge Press 2020). [pdf](/Zhai.pdf)
 
-A. Atland, and B. Simons, Condensed Field Theory (Cambridge Press 2010). [pdf](/A.Altland,andB.Simons-2010-CondensedMatterFieldTheory.pdf)
+A. Atland, and B. Simons, Condensed Field Theory (Cambridge Press 2010). [pdf](/Atland.pdf)
 
 [返回主页](https://chriswenchen.github.io/)
