@@ -34,7 +34,7 @@ A. Altland, and B. Simons, Condensed Field Theory (Cambridge University Press 20
  
  L. Pitaevskii, and S. Stringari, Bose-Einstein Condensation and superfluidity (Oxford University Press 2016). [pdf](/Pitaevskii.pdf)
  
- ### 凝聚态参考书
+### 凝聚态参考书
  
  E. Fradkin, Field Theories of Condensed Matter Physics (Cambridge University Press 2013). [pdf](/Fradin.pdf)
  
@@ -68,4 +68,3 @@ A. Zee, Quantum Field Theory in a Nutshell (Princeton University Press 2010). [p
 
 庞龙刚，华中师范大学计算物理课程（2021年春季）. [link](http://lgpang.gitee.io/mlcphysics/)
 
-[返回主页](https://chriswenchen.github.io/)
