@@ -17,18 +17,21 @@
   <meta http-equiv="window-target" content="_top" />
   
   
-  <title>Wen Chen&#39;s personal page</title>
-  <meta name="description" content="Condensed matter physics">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Wen Chen&#39;s personal page">
-<meta property="og:url" content="http://example.com/index.html">
+  <title>Be carefull with precision issue in Numpy | Wen Chen&#39;s personal page</title>
+  <meta name="description" content="The complex type in Numpy According to the official document of Numpy, numpy.complex128 is composed of 2 64-bit-precision floating-point numbers. So, the numpy.complex64 is composed of 2 32-bit-preci">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Be carefull with precision issue in Numpy">
+<meta property="og:url" content="http://example.com/2024/10/10/precision-issue-numpy/index.html">
 <meta property="og:site_name" content="Wen Chen&#39;s personal page">
-<meta property="og:description" content="Condensed matter physics">
+<meta property="og:description" content="The complex type in Numpy According to the official document of Numpy, numpy.complex128 is composed of 2 64-bit-precision floating-point numbers. So, the numpy.complex64 is composed of 2 32-bit-preci">
 <meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2024-10-10T11:59:28.000Z">
+<meta property="article:modified_time" content="2024-10-10T15:57:04.995Z">
 <meta property="article:author" content="Wen Chen">
+<meta property="article:tag" content="Numpy and Scipy">
 <meta name="twitter:card" content="summary">
   <!-- Canonical links -->
-  <link rel="canonical" href="http://example.com/index.html">
+  <link rel="canonical" href="http://example.com/2024/10/10/precision-issue-numpy/index.html">
   
   
     <link rel="icon" href="/favicon.png" type="image/x-icon">
@@ -202,18 +205,17 @@
 </aside>
 
   
-  <main class="main" role="main">
   
-  
-    <div class="content">
+<main class="main" role="main">
+  <div class="content">
   <article id="post-precision-issue-numpy" class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
     
     <div class="article-header">
       
         
   
-    <h1 itemprop="name">
-      <a class="article-title" href="/2024/10/10/precision-issue-numpy/">Be carefull with precision issue in Numpy</a>
+    <h1 class="article-title" itemprop="name">
+      Be carefull with precision issue in Numpy
     </h1>
   
 
@@ -306,11 +308,30 @@
     //-->
   </article>
   
-</div>
+    
+  <section id="comments">
+  	
+      <div id="vcomments"></div>
+    
+  </section>
+
 
   
+</div>
 
-   
+  <nav class="bar bar-footer clearfix" data-stick-bottom>
+  <div class="bar-inner">
+  
+  
+  
+  <div class="bar-right">
+    
+  </div>
+  </div>
+</nav>
+  
+
+
 </main>
 
   <footer class="footer" itemscope itemtype="http://schema.org/WPFooter">
@@ -369,6 +390,33 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
    
 
 
+
+
+   
+    
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/valine"></script>
+  <script type="text/javascript">
+  var GUEST = ['nick', 'mail', 'link'];
+  var meta = 'nick,mail,link';
+  meta = meta.split(',').filter(function(item) {
+    return GUEST.indexOf(item) > -1;
+  });
+  new Valine({
+    el: '#vcomments',
+    verify: false,
+    notify: false,
+    appId: '',
+    appKey: '',
+    placeholder: 'Just go go',
+    avatar: 'mm',
+    meta: meta,
+    pageSize: '10' || 10,
+    visitor: false
+  });
+  </script>
+
+     
 
 
 
