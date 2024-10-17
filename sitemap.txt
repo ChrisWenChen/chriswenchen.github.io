@@ -1,5 +1,4 @@
 http://example.com/2024/10/17/Haake-2010-Chapter-1-Introduction/
-http://example.com/imags/[Haake%202010]%20Chapter%201%20Introduction%20121fb7953bda80739aaeebdb417f3d4e.html
 http://example.com/2024/10/10/precision-issue-numpy/
 http://example.com/jinghuzhelu_readingclub.html
 http://example.com/about/index.html
