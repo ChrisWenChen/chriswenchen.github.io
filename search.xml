@@ -1,6 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>[Haake 2010] Chapter  1 Introduction</title>
+    <url>/2024/10/17/Haake-2010-Chapter-1-Introduction/</url>
+    <content><![CDATA[<h1 id="haake-2010-chapter-1-introduction"><a class="markdownIt-Anchor" href="#haake-2010-chapter-1-introduction"></a> [Haake 2010] Chapter 1 Introduction</h1>
+<p><strong>Differences between classical regular motion and chaos</strong></p>
+<p>There are two kinds of motion in classical Hamiltonian mechanics,</p>
+<ul>
+<li>regular motion of integrable systems
+<ul>
+<li>examples: harmonic oscillator, Kepler problem.</li>
+<li>Lyapunov exponent grows exponentially with time.</li>
+</ul>
+</li>
+<li>chaotic motion of nonintegrable systems
+<ul>
+<li>examples: periodically driven pendulum, autonomous conservative double pendulum.</li>
+<li>Lyapunov exponent grows as power of time and can be vanished.</li>
+</ul>
+</li>
+</ul>
+<p>where Lyapunov exponent is defined as the growth rate of the distance between any two trajectories.</p>
+<p><u>Because neither subexponential nor exponential separation can prevail indefinitely, where limits are set by (1) Poincaré recurrences or (2) the accessible volume of phase space, which become effective only after regular or chaotic behavior is manifest</u>.</p>
+<p><strong>Characteristic of quantum chaos and regular motion</strong></p>
+<p>When quantum effects are important, (1) notion of phase-space trajectory and (2) Lyapunov exponent lose meaning. In quantum systems whose energy spectrum is discrete,</p>
+<ul>
+<li><u>there is no exponential separation even for expectation</u></li>
+<li><u>dynamics is characterized by quasi-periodicity (recurrences), where quasi-period (typical recurrence time) is (1) inversely proportional to a typical level spacing, and (2) tend to infinity in the classical limit (<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">ℏ</mi><mo>→</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\hbar\to0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68889em;vertical-align:0em;"></span><span class="mord">ℏ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span></span></span>)</u>.</li>
+</ul>
+<p>So, the question about the distinction between regular motion and chaos in quantum mechanics is proposed,</p>
+<ul>
+<li>In the limit of <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">ℏ</mi><mo>→</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\hbar\to0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68889em;vertical-align:0em;"></span><span class="mord">ℏ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span></span></span>, one group should become regular and the other become chaos.</li>
+<li>Quantum mechanical distinction criteria based on the (1) energy spectrum, (2) eigenvectors, or (3) temporal evolution of suitable expectation values should exist.</li>
+</ul>
+<p>Experiments with classical waves, electromagnetic, and sound provide some insights, (1) fields can be real, complex, or vector, (2) wave equation can be linear or nonlinear, in all cases, <u>trajectories arises in the limit of short wavelengths, and they are chaotic with positive Lyapunov exponents whenever the underlying wave problem is nonseparable</u>.</p>
+<img src="./imags_Haake-2010-Chapter-1-Introduction/image.png">
+<p>This figures shows the quantum irregular motion which has classical counterpart displays (1) quasi-periodicity of the mean temporal separation of recurrences, and (2) its overlap of wo wave functions remains time-independent,</p>
+<p class='katex-block katex-error' title='ParseError: KaTeX parse error: Can&#039;t use function &#039;$&#039; in math mode at position 1: $̲|\langle\phi(t)…'>$|\langle\phi(t)|\psi(t)\rangle|^2=|\langle\phi(0)|\psi(0)\rangle|^2$ due to the unitarity of quantum dynamics.
+
+&lt;img src=&quot;./imags_Haake-2010-Chapter-1-Introduction/image%201.png&quot;&gt;
+
+For each curve, the two states involved originate from one and the same initial state but evolve with slightly different values of one control parameters. For the initial state residing in the classically chaotic region, however, the overlap falls exponentially, down to a level of order $1/j$, and the regular counterpart remains close to unity at all times. It’s indicated that sensitivity of the overlap to changes of a control parameter may indeed serve as a quantum criterion of irregular motion, which is called fidelity decay.
+
+**Levels repulsion**
+
+For classically integrable system,
+
+- there are two or more degrees of freedom,
+- quantum levels tends to cluster and are not prohibited from crossing when a parameters in the Hamiltonian is varied,
+- The typical distribution of the spacings of neighboring levels is exponential, $P(S)=\exp(-S)$.
+
+For classically nonintegrable systems,
+
+- levels are correlated and crossings are strongly resisted.
+- There are three universal degrees of level repulsion, linear, quadratic, and quartic, $P(S)\sim S^\beta\;\text{for}\;S\to0\;\text{with}\;\beta=1,2,4.$
+- These universality classes are determined by symmetries.
+
+&lt;img src=&quot;./imags_Haake-2010-Chapter-1-Introduction/image%202.png&quot;&gt;
+
+&lt;u&gt;There are some experimental evidences for linear and quadratic repulsion. There are some difficulties for experimental observations&lt;/u&gt;.</p>
+]]></content>
+      <categories>
+        <category>Physics</category>
+      </categories>
+      <tags>
+        <tag>Quantum Chaos</tag>
+        <tag>Random Matrices Theory</tag>
+        <tag>Reading Notes</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Be carefull with precision issue in Numpy</title>
     <url>/2024/10/10/precision-issue-numpy/</url>
     <content><![CDATA[<h1 id="the-complex-type-in-numpy"><a class="markdownIt-Anchor" href="#the-complex-type-in-numpy"></a> The <code>complex</code> type in Numpy</h1>

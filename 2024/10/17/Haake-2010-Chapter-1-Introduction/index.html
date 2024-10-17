@@ -17,21 +17,25 @@
   <meta http-equiv="window-target" content="_top" />
   
   
-  <title>Be carefull with precision issue in Numpy | Wen Chen&#39;s personal page</title>
-  <meta name="description" content="The complex type in Numpy According to the official document of Numpy, numpy.complex128 is composed of 2 64-bit-precision floating-point numbers. So, the numpy.complex64 is composed of 2 32-bit-preci">
+  <title>[Haake 2010] Chapter  1 Introduction | Wen Chen&#39;s personal page</title>
+  <meta name="description" content="[Haake 2010] Chapter 1 Introduction Differences between classical regular motion and chaos There are two kinds of motion in classical Hamiltonian mechanics,  regular motion of integrable systems  exa">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Be carefull with precision issue in Numpy">
-<meta property="og:url" content="http://example.com/2024/10/10/precision-issue-numpy/index.html">
+<meta property="og:title" content="[Haake 2010] Chapter  1 Introduction">
+<meta property="og:url" content="http://example.com/2024/10/17/Haake-2010-Chapter-1-Introduction/index.html">
 <meta property="og:site_name" content="Wen Chen&#39;s personal page">
-<meta property="og:description" content="The complex type in Numpy According to the official document of Numpy, numpy.complex128 is composed of 2 64-bit-precision floating-point numbers. So, the numpy.complex64 is composed of 2 32-bit-preci">
+<meta property="og:description" content="[Haake 2010] Chapter 1 Introduction Differences between classical regular motion and chaos There are two kinds of motion in classical Hamiltonian mechanics,  regular motion of integrable systems  exa">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2024-10-10T11:59:28.000Z">
-<meta property="article:modified_time" content="2024-10-10T15:57:04.995Z">
+<meta property="og:image" content="http://example.com/2024/10/17/Haake-2010-Chapter-1-Introduction/imags_Haake-2010-Chapter-1-Introduction/image.png">
+<meta property="article:published_time" content="2024-10-17T02:44:16.000Z">
+<meta property="article:modified_time" content="2024-10-17T02:55:23.066Z">
 <meta property="article:author" content="Wen Chen">
-<meta property="article:tag" content="Numpy and Scipy">
+<meta property="article:tag" content="Quantum Chaos">
+<meta property="article:tag" content="Random Matrices Theory">
+<meta property="article:tag" content="Reading Notes">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://example.com/2024/10/17/Haake-2010-Chapter-1-Introduction/imags_Haake-2010-Chapter-1-Introduction/image.png">
   <!-- Canonical links -->
-  <link rel="canonical" href="http://example.com/2024/10/10/precision-issue-numpy/index.html">
+  <link rel="canonical" href="http://example.com/2024/10/17/Haake-2010-Chapter-1-Introduction/index.html">
   
   
     <link rel="icon" href="/favicon.png" type="image/x-icon">
@@ -223,14 +227,14 @@
   
 <main class="main" role="main">
   <div class="content">
-  <article id="post-precision-issue-numpy" class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
+  <article id="post-Haake-2010-Chapter-1-Introduction" class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
     
     <div class="article-header">
       
         
   
     <h1 class="article-title" itemprop="name">
-      Be carefull with precision issue in Numpy
+      [Haake 2010] Chapter  1 Introduction
     </h1>
   
 
@@ -238,51 +242,95 @@
       <div class="article-meta">
         <span class="article-date">
     <i class="icon icon-calendar-check"></i>
-	<a href="/2024/10/10/precision-issue-numpy/" class="article-date">
-	  <time datetime="2024-10-10T11:59:28.000Z" itemprop="datePublished">2024-10-10</time>
+	<a href="/2024/10/17/Haake-2010-Chapter-1-Introduction/" class="article-date">
+	  <time datetime="2024-10-17T02:44:16.000Z" itemprop="datePublished">2024-10-17</time>
 	</a>
 </span>
         
   <span class="article-category">
     <i class="icon icon-folder"></i>
-    <a class="article-category-link" href="/categories/Computer-Science/">Computer Science</a>
+    <a class="article-category-link" href="/categories/Physics/">Physics</a>
   </span>
 
         
   <span class="article-tag">
     <i class="icon icon-tags"></i>
-	<a class="article-tag-link-link" href="/tags/Numpy-and-Scipy/" rel="tag">Numpy and Scipy</a>
+	<a class="article-tag-link-link" href="/tags/Quantum-Chaos/" rel="tag">Quantum Chaos</a>, <a class="article-tag-link-link" href="/tags/Random-Matrices-Theory/" rel="tag">Random Matrices Theory</a>, <a class="article-tag-link-link" href="/tags/Reading-Notes/" rel="tag">Reading Notes</a>
   </span>
 
 
         
 
-        <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2024/10/10/precision-issue-numpy/#comments" class="article-comment-link">Comments</a></span>
+        <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2024/10/17/Haake-2010-Chapter-1-Introduction/#comments" class="article-comment-link">Comments</a></span>
         
 	
-		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 440(words)</span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 584(words)</span>
 	
 	
-		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 2(minutes)</span>
+		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 3(minutes)</span>
 	
 
       </div>
     </div>
     <div class="article-entry marked-body" itemprop="articleBody">
       
-        <h1 id="the-complex-type-in-numpy"><a class="markdownIt-Anchor" href="#the-complex-type-in-numpy"></a> The <code>complex</code> type in Numpy</h1>
-<p>According to the official document of Numpy, <code>numpy.complex128</code> is composed of 2 64-bit-precision floating-point numbers. So, the <code>numpy.complex64</code> is composed of 2 32-bit-precision floating-point numbers, which might lead to a loss of precision when you assign a <code>numpy.float64</code> to a <code>numpy.ndarray</code> whose <code>dtype</code> is <code>numpy.complex64</code>.</p>
-<h1 id="an-example"><a class="markdownIt-Anchor" href="#an-example"></a> An example</h1>
-<p>At first, we generate two matrices whose type of elements are <code>numpy.complex64</code> and <code>numpy.float64</code>,</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>A = np.zeros((<span class="number">3</span>, <span class="number">3</span>), dtype = np.complex64)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>A.dtype</span><br><span class="line">dtype(<span class="string">&#x27;complex64&#x27;</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>B = np.random.randn(<span class="number">2</span>, <span class="number">2</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>B.dtype</span><br><span class="line">dtype(<span class="string">&#x27;float64&#x27;</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>B</span><br><span class="line">array([[-<span class="number">1.39295264</span>, -<span class="number">1.93480849</span>],</span><br><span class="line">       [-<span class="number">0.18605461</span>, -<span class="number">0.2380665</span> ]])</span><br></pre></td></tr></table></figure>
-<p>now we try to assign the elements of <code>B</code> to <code>A</code>,</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>A[<span class="number">0</span>:<span class="number">2</span>, <span class="number">0</span>:<span class="number">2</span>] = B</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>A.dtype</span><br><span class="line">dtype(<span class="string">&#x27;complex64&#x27;</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>A</span><br><span class="line">array([[-<span class="number">1.3929527</span>+<span class="number">0.j</span>, -<span class="number">1.9348085</span>+<span class="number">0.j</span>,  <span class="number">0.</span>       +<span class="number">0.j</span>],</span><br><span class="line">       [-<span class="number">0.1860546</span>+<span class="number">0.j</span>, -<span class="number">0.2380665</span>+<span class="number">0.j</span>,  <span class="number">0.</span>       +<span class="number">0.j</span>],</span><br><span class="line">       [ <span class="number">0.</span>       +<span class="number">0.j</span>,  <span class="number">0.</span>       +<span class="number">0.j</span>,  <span class="number">0.</span>       +<span class="number">0.j</span>]], dtype=complex64)</span><br></pre></td></tr></table></figure>
-<p>we can see that the <code>dtype</code> of <code>A</code> is still <code>complex64</code>, and now we calculate the singular values of <code>A</code> by <code>scipy.linalg.svdvals</code>,</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span><span class="keyword">from</span> scipy.linalg <span class="keyword">import</span> svdvals</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>siv = svdvals(A)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>siv.dtype</span><br><span class="line">dtype(<span class="string">&#x27;float32&#x27;</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>siv</span><br><span class="line">array([<span class="number">2.4031136</span> , <span class="number">0.01180331</span>, <span class="number">0.</span>        ], dtype=float32)</span><br></pre></td></tr></table></figure>
-<p>As a result, the <code>dtype</code> of singular values is <code>numpy.float32</code>.</p>
-<h1 id="solution"><a class="markdownIt-Anchor" href="#solution"></a> Solution</h1>
-<p>We should always fix the number of <code>complex</code> as the two times of <code>float</code>.</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>A = np.zeros((<span class="number">3</span>,<span class="number">3</span>), dtype= np.complex128)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>B = np.random.randn(<span class="number">2</span>, <span class="number">2</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>A</span><br><span class="line">array([[<span class="number">0.</span>+<span class="number">0.j</span>, <span class="number">0.</span>+<span class="number">0.j</span>, <span class="number">0.</span>+<span class="number">0.j</span>],</span><br><span class="line">       [<span class="number">0.</span>+<span class="number">0.j</span>, <span class="number">0.</span>+<span class="number">0.j</span>, <span class="number">0.</span>+<span class="number">0.j</span>],</span><br><span class="line">       [<span class="number">0.</span>+<span class="number">0.j</span>, <span class="number">0.</span>+<span class="number">0.j</span>, <span class="number">0.</span>+<span class="number">0.j</span>]])</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>A.dtype</span><br><span class="line">dtype(<span class="string">&#x27;complex128&#x27;</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>B</span><br><span class="line">array([[-<span class="number">0.0713599</span> ,  <span class="number">1.52210386</span>],</span><br><span class="line">       [-<span class="number">0.74102553</span>, -<span class="number">0.6968513</span> ]])</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>B.dtype</span><br><span class="line">dtype(<span class="string">&#x27;float64&#x27;</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>A[<span class="number">0</span>:<span class="number">2</span>, <span class="number">0</span>:<span class="number">2</span>] = B</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>A</span><br><span class="line">array([[-<span class="number">0.0713599</span> +<span class="number">0.j</span>,  <span class="number">1.52210386</span>+<span class="number">0.j</span>,  <span class="number">0.</span>        +<span class="number">0.j</span>],</span><br><span class="line">       [-<span class="number">0.74102553</span>+<span class="number">0.j</span>, -<span class="number">0.6968513</span> +<span class="number">0.j</span>,  <span class="number">0.</span>        +<span class="number">0.j</span>],</span><br><span class="line">       [ <span class="number">0.</span>        +<span class="number">0.j</span>,  <span class="number">0.</span>        +<span class="number">0.j</span>,  <span class="number">0.</span>        +<span class="number">0.j</span>]])</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>A.dtype</span><br><span class="line">dtype(<span class="string">&#x27;complex128&#x27;</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>siv = svdvals(A)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>siv.dtype</span><br><span class="line">dtype(<span class="string">&#x27;float64&#x27;</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>siv</span><br><span class="line">array([<span class="number">1.69531001</span>, <span class="number">0.6946488</span> , <span class="number">0.</span>        ])</span><br></pre></td></tr></table></figure>
+        <h1 id="haake-2010-chapter-1-introduction"><a class="markdownIt-Anchor" href="#haake-2010-chapter-1-introduction"></a> [Haake 2010] Chapter 1 Introduction</h1>
+<p><strong>Differences between classical regular motion and chaos</strong></p>
+<p>There are two kinds of motion in classical Hamiltonian mechanics,</p>
+<ul>
+<li>regular motion of integrable systems
+<ul>
+<li>examples: harmonic oscillator, Kepler problem.</li>
+<li>Lyapunov exponent grows exponentially with time.</li>
+</ul>
+</li>
+<li>chaotic motion of nonintegrable systems
+<ul>
+<li>examples: periodically driven pendulum, autonomous conservative double pendulum.</li>
+<li>Lyapunov exponent grows as power of time and can be vanished.</li>
+</ul>
+</li>
+</ul>
+<p>where Lyapunov exponent is defined as the growth rate of the distance between any two trajectories.</p>
+<p><u>Because neither subexponential nor exponential separation can prevail indefinitely, where limits are set by (1) Poincaré recurrences or (2) the accessible volume of phase space, which become effective only after regular or chaotic behavior is manifest</u>.</p>
+<p><strong>Characteristic of quantum chaos and regular motion</strong></p>
+<p>When quantum effects are important, (1) notion of phase-space trajectory and (2) Lyapunov exponent lose meaning. In quantum systems whose energy spectrum is discrete,</p>
+<ul>
+<li><u>there is no exponential separation even for expectation</u></li>
+<li><u>dynamics is characterized by quasi-periodicity (recurrences), where quasi-period (typical recurrence time) is (1) inversely proportional to a typical level spacing, and (2) tend to infinity in the classical limit (<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">ℏ</mi><mo>→</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\hbar\to0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68889em;vertical-align:0em;"></span><span class="mord">ℏ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span></span></span>)</u>.</li>
+</ul>
+<p>So, the question about the distinction between regular motion and chaos in quantum mechanics is proposed,</p>
+<ul>
+<li>In the limit of <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">ℏ</mi><mo>→</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\hbar\to0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68889em;vertical-align:0em;"></span><span class="mord">ℏ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span></span></span>, one group should become regular and the other become chaos.</li>
+<li>Quantum mechanical distinction criteria based on the (1) energy spectrum, (2) eigenvectors, or (3) temporal evolution of suitable expectation values should exist.</li>
+</ul>
+<p>Experiments with classical waves, electromagnetic, and sound provide some insights, (1) fields can be real, complex, or vector, (2) wave equation can be linear or nonlinear, in all cases, <u>trajectories arises in the limit of short wavelengths, and they are chaotic with positive Lyapunov exponents whenever the underlying wave problem is nonseparable</u>.</p>
+<img src="./imags_Haake-2010-Chapter-1-Introduction/image.png">
+<p>This figures shows the quantum irregular motion which has classical counterpart displays (1) quasi-periodicity of the mean temporal separation of recurrences, and (2) its overlap of wo wave functions remains time-independent,</p>
+<p class='katex-block katex-error' title='ParseError: KaTeX parse error: Can&#039;t use function &#039;$&#039; in math mode at position 1: $̲|\langle\phi(t)…'>$|\langle\phi(t)|\psi(t)\rangle|^2=|\langle\phi(0)|\psi(0)\rangle|^2$ due to the unitarity of quantum dynamics.
+
+&lt;img src=&quot;./imags_Haake-2010-Chapter-1-Introduction/image%201.png&quot;&gt;
+
+For each curve, the two states involved originate from one and the same initial state but evolve with slightly different values of one control parameters. For the initial state residing in the classically chaotic region, however, the overlap falls exponentially, down to a level of order $1/j$, and the regular counterpart remains close to unity at all times. It’s indicated that sensitivity of the overlap to changes of a control parameter may indeed serve as a quantum criterion of irregular motion, which is called fidelity decay.
+
+**Levels repulsion**
+
+For classically integrable system,
+
+- there are two or more degrees of freedom,
+- quantum levels tends to cluster and are not prohibited from crossing when a parameters in the Hamiltonian is varied,
+- The typical distribution of the spacings of neighboring levels is exponential, $P(S)=\exp(-S)$.
+
+For classically nonintegrable systems,
+
+- levels are correlated and crossings are strongly resisted.
+- There are three universal degrees of level repulsion, linear, quadratic, and quartic, $P(S)\sim S^\beta\;\text{for}\;S\to0\;\text{with}\;\beta=1,2,4.$
+- These universality classes are determined by symmetries.
+
+&lt;img src=&quot;./imags_Haake-2010-Chapter-1-Introduction/image%202.png&quot;&gt;
+
+&lt;u&gt;There are some experimental evidences for linear and quadratic repulsion. There are some difficulties for experimental observations&lt;/u&gt;.</p>
+
       
     </div>
     <!--
@@ -292,7 +340,7 @@
     
     <li class="post-copyright-link hidden-xs">
       <strong>本文链接：</strong>
-      <a href="http://example.com/2024/10/10/precision-issue-numpy/" title="Be carefull with precision issue in Numpy" target="_blank" rel="external">http://example.com/2024/10/10/precision-issue-numpy/</a>
+      <a href="http://example.com/2024/10/17/Haake-2010-Chapter-1-Introduction/" title="[Haake 2010] Chapter  1 Introduction" target="_blank" rel="external">http://example.com/2024/10/17/Haake-2010-Chapter-1-Introduction/</a>
     </li>
     
     <li class="post-copyright-license">
@@ -339,10 +387,10 @@
   
   <ul class="pager pull-left">
     
-    <li class="prev">
-      <a href="/2024/10/17/Haake-2010-Chapter-1-Introduction/" title="[Haake 2010] Chapter  1 Introduction"><i class="icon icon-angle-left" aria-hidden="true"></i><span>&nbsp;&nbsp;Newer</span></a>
-    </li>
     
+    <li class="next">
+      <a href="/2024/10/10/precision-issue-numpy/" title="Be carefull with precision issue in Numpy"><span>Older&nbsp;&nbsp;</span><i class="icon icon-angle-right" aria-hidden="true"></i></a>
+    </li>
     
     
   </ul>
