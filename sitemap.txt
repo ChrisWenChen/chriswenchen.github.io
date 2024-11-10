@@ -1,3 +1,4 @@
+http://example.com/2024/11/11/Zangwill_preface/
 http://example.com/2024/10/17/Haake-2010-Chapter-1-Introduction/
 http://example.com/2024/10/10/precision-issue-numpy/
 http://example.com/jinghuzhelu_readingclub.html
@@ -8,5 +9,7 @@ http://example.com/tags/Quantum-Chaos/
 http://example.com/tags/Random-Matrices-Theory/
 http://example.com/tags/Reading-Notes/
 http://example.com/tags/Numpy-and-Scipy/
+http://example.com/tags/Electrodynamics/
+http://example.com/tags/Reading-notes/
 http://example.com/categories/Physics/
 http://example.com/categories/Computer-Science/
