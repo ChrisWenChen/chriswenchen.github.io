@@ -10,6 +10,5 @@ http://example.com/tags/Random-Matrices-Theory/
 http://example.com/tags/Reading-Notes/
 http://example.com/tags/Numpy-and-Scipy/
 http://example.com/tags/Electrodynamics/
-http://example.com/tags/Reading-notes/
 http://example.com/categories/Physics/
 http://example.com/categories/Computer-Science/

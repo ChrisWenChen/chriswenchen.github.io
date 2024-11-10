@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-10T17:37:57.681Z</updated>
+  <updated>2024-11-10T18:01:45.171Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2024/11/11/Zangwill_preface/"/>
     <id>http://example.com/2024/11/11/Zangwill_preface/</id>
     <published>2024-11-10T16:59:00.000Z</published>
-    <updated>2024-11-10T17:37:57.681Z</updated>
+    <updated>2024-11-10T18:01:45.171Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>A textbook, as opposed to a treatise, should include everything a student must know, not everything the author does know.</p><p align="right">--Kenneth Johnson, quoted by Francis Low (1997)</p></blockquote><p><mark><strong>Electrodynamics is important and challenging</strong></mark><br>It’s impossible to deny the permanent and important place of electrodynamics in the physics curriculum, along with classical mechanics, quantum mechanics, and statistical mechanics. But there are some reasons that make students find this is the most challenging,</p><ol><li>High mathematical demands of vector calculus and partial differential equations.</li><li>The non-algorithmic nature of electromagnetic problem-solving.</li><li>There are “two-level” structure of the theory, <strong>(a)</strong> the first one is the linear equations relates the electric and magnetic fields to their sources and to each other, <strong>(b)</strong> the second on is the quadratic equations relating the force, energy, and stress in the fields which are determined only indirectly by the first-layer quantities.</li></ol><p><mark><strong>Goal of this book</strong></mark><br>This book is for graduate-level readers to help them deepen their understanding without minimizing the role of the mathematics. There are three considerations,</p><ol><li>This book serves both a classroom text and a reference book.</li><li>The author’s struglle to apply the epigraph at the top of the page.</li><li>Because the contents of a book about electrodynamics are usually depending on the research background of the writers, this book purposely contains much more material and offers more topics for discussion. Not only the problem can be considered via many angles, but also the mathematics and qualitative and physical arguments are impressive.</li></ol><p><mark><strong>Structure of this book</strong></mark><br>Based on the author’s instruction experience, the order and contents are well organized. The text is purposely repetitive to emphasis the important point and help students do not read the book in order. The items every chapter includes are listed as follows,</p><ol><li>Worked examples to develop problem-solving skills.</li><li>Boxed excursions.</li><li>Source, references, and additional reading.</li><li>Homework problems.</li></ol><p><mark><strong>What “modern” means</strong></mark><br>The “modern” dosen’t mean that it’s associated with the use of modern mathematicalo methods. On the opposite, <strong>(a)</strong> on the one hand, there are some modern topics arise in the recent years are included in this book. <strong>(b)</strong> On the other hand, there is an overview of Dirac’s Hamiltonian approach to electrodynamics and an update on certain “perpetual” problems like the correctness of the Lorentz-Dirac equation of motion for classical point particles.</p><p><mark><strong>Some choices</strong></mark></p><ol><li>The author use SI units throughout because of it has become the world wide standard and he also procides an algorithm to painlessly convert from SI to Gaussian and vice versa.</li><li>The author use the imaginary number $i$ to impose the metric in special relativity because the author thinks it more pedagogical.</li></ol>]]></content>
     
@@ -37,9 +37,9 @@
     <category term="Physics" scheme="http://example.com/categories/Physics/"/>
     
     
-    <category term="Electrodynamics" scheme="http://example.com/tags/Electrodynamics/"/>
+    <category term="Reading Notes" scheme="http://example.com/tags/Reading-Notes/"/>
     
-    <category term="Reading notes" scheme="http://example.com/tags/Reading-notes/"/>
+    <category term="Electrodynamics" scheme="http://example.com/tags/Electrodynamics/"/>
     
   </entry>
   
