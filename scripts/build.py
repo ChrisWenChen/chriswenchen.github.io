@@ -125,8 +125,8 @@ def render_publications(data: dict[str, object]) -> str:
     <span class="lang-zh">发表论文</span>
   </h2>
   <p class="section-intro">
-    <span class="lang-en">See also: <a href="https://scholar.google.com/citations?user=z_r9VSwAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-6089-9909" target="_blank" rel="noopener">ORCID</a>, and <a href="https://arxiv.org/search/?searchtype=author&amp;query=Wen+Chen" target="_blank" rel="noopener">arXiv</a>. (* Corresponding author.)</span>
-    <span class="lang-zh">另见：<a href="https://scholar.google.com/citations?user=z_r9VSwAAAAJ" target="_blank" rel="noopener">Google Scholar</a>、<a href="https://orcid.org/0000-0001-6089-9909" target="_blank" rel="noopener">ORCID</a> 和 <a href="https://arxiv.org/search/?searchtype=author&amp;query=Wen+Chen" target="_blank" rel="noopener">arXiv</a>。（* 通讯作者）</span>
+    <span class="lang-en">See also: <a href="https://scholar.google.com/citations?user=z_r9VSwAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-6089-9909" target="_blank" rel="noopener">ORCID</a>, and <a href="https://arxiv.org/a/chen_w_7.html" target="_blank" rel="noopener">arXiv</a>. (* Corresponding author.)</span>
+    <span class="lang-zh">另见：<a href="https://scholar.google.com/citations?user=z_r9VSwAAAAJ" target="_blank" rel="noopener">Google Scholar</a>、<a href="https://orcid.org/0000-0001-6089-9909" target="_blank" rel="noopener">ORCID</a> 和 <a href="https://arxiv.org/a/chen_w_7.html" target="_blank" rel="noopener">arXiv</a>。（* 通讯作者）</span>
   </p>
 {grouped(data["publications"] + data["conference_abstracts"])}
 </div>

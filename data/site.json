@@ -36,6 +36,21 @@
   ],
   "publications": [
     {
+      "year": 2026,
+      "type": {"en": "Preprint", "zh": "预印本"},
+      "title": {
+        "en": "Sign-problem-resilient singular-value probe in determinant quantum Monte Carlo",
+        "zh": "行列式量子蒙特卡洛中抗符号问题的奇异值探针"
+      },
+      "authors": [
+        {"name": "Wen Chen", "me": true}, {"name": "Rubem Mondaini"}
+      ],
+      "venue": {"en": "arXiv:2608.19028", "zh": "arXiv:2608.19028"},
+      "links": [
+        {"label": "arXiv", "href": "https://arxiv.org/abs/2608.19028"}
+      ]
+    },
+    {
       "year": 2025,
       "type": {"en": "Journal Article", "zh": "期刊论文"},
       "title": {
